@@ -3,6 +3,8 @@ ul {
     width: 75vw;
 
     /* add solution here */
+    display: flex;
+    
 }
 
 li {
@@ -11,5 +13,5 @@ li {
     background-color: rgb(245, 173, 41);
 
     /* add solution here.. */
-
+    flex: 0 1 10rem;
 }
